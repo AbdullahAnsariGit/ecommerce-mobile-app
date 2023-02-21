@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Raleway-Bold.otf",
+      "sha1": "444e7563b445d43bb9f800df6ba51af48ba05182"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-ExtraBold.otf",
+      "sha1": "e7d8fed4c95348e6f2ea96395f6285b6fa21680c"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-ExtraLight.otf",
+      "sha1": "22025fbf06f22a3f4915bf5db5c04fb4995e6120"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Heavy.otf",
+      "sha1": "1f15fb4df5966810bc9373ede62b0a8ff33c6d67"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Light.otf",
+      "sha1": "58ddef400905ba78a023c2d3373f4ed0e54a47a7"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Medium.otf",
+      "sha1": "93c1df52acfc3cca670a3c54cbcf91bec3c7a467"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Regular.otf",
+      "sha1": "ecc62264953a9eb3aface5eb28bd0ed83af944ad"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-SemiBold.otf",
+      "sha1": "5fdbce0ab45995691c7253ec83079b22be0a99ea"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Thin.otf",
+      "sha1": "412f26d50fb2b1ffa948426c6222f708ee895a8a"
+    },
+    {
+      "path": "src/assets/fonts/SIL Open Font License.txt",
+      "sha1": "a184c922127a1e1d51d43704a7ba160ffaa19d17"
+    }
+  ]
+}
